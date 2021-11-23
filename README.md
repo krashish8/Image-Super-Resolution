@@ -11,3 +11,4 @@
 - [RDN](https://github.com/krashish8/Image-Super-Resolution/blob/master/RDN.ipynb) [[Alternate Link](https://nbviewer.jupyter.org/github/krashish8/Image-Super-Resolution/blob/master/RDN.ipynb)]
 - [SRDenseNet](https://github.com/krashish8/Image-Super-Resolution/blob/master/SRDenseNet.ipynb) [[Alternate Link](https://nbviewer.jupyter.org/github/krashish8/Image-Super-Resolution/blob/master/SRDenseNet.ipynb)]
 - [SRGAN](https://github.com/krashish8/Image-Super-Resolution/blob/master/SRGAN.ipynb) [[Alternate Link](https://nbviewer.jupyter.org/github/krashish8/Image-Super-Resolution/blob/master/SRGAN.ipynb)]
+- [DBPN](https://github.com/krashish8/Image-Super-Resolution/blob/master/DBPN_implementation.ipynb) [[Alternate Link](https://nbviewer.jupyter.org/github/krashish8/Image-Super-Resolution/blob/master/DBPN_implementation.ipynb)]
